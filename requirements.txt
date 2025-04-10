@@ -3,3 +3,4 @@ requests
 apscheduler
 akshare
 requests
+azure-functions==1.12.1
